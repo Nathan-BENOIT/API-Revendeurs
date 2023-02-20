@@ -1,0 +1,6 @@
+/Users/nathanbenoit/Documents/GitHub/API-Revendeurs/TestAPIRevendeurs/bin/Debug/net7.0/CoverletSourceRootsMapping
+/Users/nathanbenoit/Documents/GitHub/API-Revendeurs/TestAPIRevendeurs/obj/Debug/net7.0/TestAPIRevendeurs.csproj.AssemblyReference.cache
+/Users/nathanbenoit/Documents/GitHub/API-Revendeurs/TestAPIRevendeurs/obj/Debug/net7.0/TestAPIRevendeurs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanbenoit/Documents/GitHub/API-Revendeurs/TestAPIRevendeurs/obj/Debug/net7.0/TestAPIRevendeurs.AssemblyInfoInputs.cache
+/Users/nathanbenoit/Documents/GitHub/API-Revendeurs/TestAPIRevendeurs/obj/Debug/net7.0/TestAPIRevendeurs.AssemblyInfo.cs
+/Users/nathanbenoit/Documents/GitHub/API-Revendeurs/TestAPIRevendeurs/obj/Debug/net7.0/TestAPIRevendeurs.csproj.CoreCompileInputs.cache

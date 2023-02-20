@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{0592426F-45AD-46ED-A0FC-2214AA6E5469}|https">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TestsAPIRevendeurs FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.APIRevendeurs PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.TestAPIRevendeurs FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="APIRevendeurs/Controllers/ProduitsController.cs">
